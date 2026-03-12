@@ -34,4 +34,4 @@ All assignments, labs, and projects from this course will be stored here.
 - Editor: VS Code
 
 ## 👤 Author
-Diyor Rudov – CCD Spring 2026
+Diyor R – CCD Spring 2026
