@@ -1,4 +1,4 @@
-![Banner](asset/class_banner.jpg)
+![Banner](assets/class_banner.jpg)
 
 # CSC 1019: Introduction to Programming – Python
 
