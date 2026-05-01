@@ -3,7 +3,7 @@
 # CSC 1019: Introduction to Programming – Python
 
 Coursework repository for CSC 1019 at CCD, using zyBooks as the learning platform.
-All assignments, labs, and projects from this course will be stored here.
+Labs and Coding Projects will be uploaded here.
 
 ## 📚 Topics Covered
 1. Introduction to Python
@@ -24,7 +24,6 @@ All assignments, labs, and projects from this course will be stored here.
 16. Searching and Sorting Algorithms
 
 ## 📁 Repository Structure
-- `assignments/` – zyBooks chapter assignments
 - `labs/` – zyLabs exercises
 - `projects/` – Larger course projects
 
